@@ -36,4 +36,7 @@ python knowledge_building.py --doc_folder "your local document folder path"
 cd DocumentQA_RAG
 python knowledge_retrieval.py
 ```
-## Sample Results
+## Sample Result
+
+https://github.com/JackDance/DocumentQA_RAG/assets/46999456/d01d9fa0-8b6d-473d-a23f-f46dcc8a85c9
+
