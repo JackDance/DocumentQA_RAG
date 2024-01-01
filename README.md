@@ -37,4 +37,3 @@ cd DocumentQA_RAG
 python knowledge_retrieval.py
 ```
 ## Sample Results
-![](https://github.com/JackDance/DocumentQA_RAG/blob/master/sample_demo.mp4)
